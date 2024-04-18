@@ -1,6 +1,6 @@
 104.17.30.162:443#California
 104.19.44.15:443#California
-104.16.82.208:443#California3
+104.16.82.208:443#California
 104.19.86.191:2053#California
 104.17.94.7:2053#California
 104.16.38.228:2053#California
